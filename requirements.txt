@@ -1,0 +1,12 @@
+azureml
+azureml-sdk
+numpy
+onnx
+onnxconverter_common
+onnxruntime
+matplotlib
+scikit-learn
+seaborn
+skl2onnx
+torch
+transformers
